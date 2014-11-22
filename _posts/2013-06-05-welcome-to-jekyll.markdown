@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Willkommen
-date: {}
-categories: jekyll update
+date:   2013-06-05 20:33:11
 published: true
 ---
 
