@@ -1,6 +1,5 @@
-name: Merlot Theme
-baseurl: http://ZedThree.github.io/merlot-theme-jekyll
-description: a fancy schmancy theme for github pages
+name: Die Glorreichen
+description: einmal glorreich, immer glorreich!
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
