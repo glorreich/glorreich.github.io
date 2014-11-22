@@ -1,4 +1,5 @@
 name: Die Glorreichen
+title: Die Glorreichen
 description: einmal glorreich, immer glorreich!
 
 permalink: /:year/:month/:day/:title/
