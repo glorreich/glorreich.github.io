@@ -1,6 +1,6 @@
 name: Die Glorreichen
 title: Die Glorreichen
-description: einmal glorreich, immer glorreich!
+description: Einmal glorreich, immer glorreich!
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
