@@ -2,7 +2,7 @@
 layout: post
 title: Willkommen
 date: {}
-categories: jekyll update
+categories: welcome
 published: true
 ---
 
