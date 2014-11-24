@@ -7,15 +7,10 @@ title: Die Glorreichen
 
 	<article class="post">
 
-		{% if post.external-url %}
-			<h3 class="header-level-1">
-				<a href="{{ post.external-url }}">{{ post.title }}</a>
-			</h3>
-		{% else %}
-			<h3 class="header-level-1">
-			  <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a>
-			</h3>
-		{% endif %}
+			<h1 class="header-level-1">
+        {{ post.title }}
+        <hr>
+			</h1>
 
 		<div class="post-content">{{ post.content }}</div>
 

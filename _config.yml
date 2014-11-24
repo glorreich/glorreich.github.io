@@ -2,8 +2,10 @@ name: Die Glorreichen
 title: Die Glorreichen
 description: Einmal glorreich, immer glorreich!
 
+host: 0.0.0.0
+port: 3000
 permalink: /:year/:month/:day/:title/
 paginate: 10
-pygments: true
+highlighter: pygments
 
 exclude: ['README.md']
