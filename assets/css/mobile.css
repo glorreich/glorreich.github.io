@@ -132,6 +132,13 @@ header {
   max-width: 640px;
   top: 51px;
 }
+#wappen {
+  position: absolute;
+  top: 135px;
+  left: 230px;
+  box-shadow: none;
+  border: 0px;
+}
 
 header span.ribbon-inner {
   position: relative;
@@ -211,7 +218,7 @@ span.banner-fix {
 
 section#main_content {
   z-index: 2;
-  padding: 20px 40px 0;
+  padding: 20px 20px 0;
   min-height:185px;
 }
 
@@ -258,7 +265,7 @@ footer span.ribbon-inner p {
   font: bold italic 22px/1 Georgia, Times, “Times New Roman”, serif;
   height: auto;
   line-height: 1.1;
-  padding: 20px 0px 10px;
+  padding: 20px 0px 15px;
 }
 
 footer span.ribbon-inner a {

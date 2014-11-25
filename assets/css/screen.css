@@ -144,6 +144,14 @@ header {
   top: 38px;
 }
 
+#wappen {
+  position: absolute;
+  top: 120px;
+  left: 230px;
+  box-shadow: none;
+  border: 0px;
+}
+
 header span.ribbon-inner {
   position: relative;
   display: block;
@@ -207,7 +215,7 @@ div#no-downloads {
   display: block;
   height: 197px;
   width: 550px;
-  padding-bottom: 120px;
+  padding-bottom: 130px;
   margin: -80px auto -150px;
   z-index: 1;
   background: transparent url(/images/bg-ramp.jpg) center 171px no-repeat;
@@ -275,8 +283,13 @@ span.banner-fix {
 
 section#main_content {
   z-index: 2;
-  padding: 20px 82px 0;
+  padding: 20px 30px 0;
   min-height:185px;
+}
+
+#content {
+  background: transparent url(/images/content_background.gif) center repeat-y;
+  padding: 0 60px;
 }
 
 /* footer */
@@ -370,7 +383,11 @@ footer span.octocat {
 /* content */
 
 body {
-  background: #ece4d8;
+  background: url(/images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
   color: #544943;
   -webkit-font-smoothing: antialiased;
@@ -538,7 +555,7 @@ dd p:first-child {
 .header-level-1 {
   font-size: 1.85em;
   color: #7c334f;
-  text-align: left;
+  text-align: center;
   font-style: italic;
   margin: 1.1em 0 .38em;
   line-height: 1.2;
