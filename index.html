@@ -6,13 +6,12 @@ title: Die Glorreichen
 {% for post in paginator.posts %}
 
 	<article class="post">
+    <h1 id="{{ post.tags }}" class="header-level-1">
+      {{ post.title }}
+      <hr>
+    </h1>
 
-			<h1 class="header-level-1">
-        {{ post.title }}
-        <hr>
-			</h1>
-
-		<div class="post-content">{{ post.content }}</div>
+    <div class="post-content">{{ post.content }}</div>
 
 	</article>
 

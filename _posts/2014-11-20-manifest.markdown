@@ -3,6 +3,7 @@ layout: post
 title: "Unser Manifest"
 date: 2014-11-20 22:21:10
 published: true
+tags: manifest
 ---
 
 Wie in jedem Clan sind ein paar Regeln wichtig.
@@ -16,9 +17,9 @@ Hier die Regeln die uns wichtig sind.
 * Bei Truppenanfragen sind 6er Bogis zu spenden, ansonsten das was gefordert wird.
 
 # Clankrieg
-* Für die Organisation der Clankriege verwenden wir die App Kakaotalk, bitte die herunterladen und nach `marcelglorreich` suchen.
+* Für die Organisation der Clankriege verwenden wir die App Kakaotalk. Diese bitte herunterladen und nach `marcelglorreich` suchen. Kakao Talk gibt es für [iOS](https://itunes.apple.com/de/app/kakaotalk-messenger/id362057947?mt=8&uo=4) und [Android](https://play.google.com/store/apps/details?id=com.kakao.talk).
 
-* Clankriege finden immer Montags und Donnerstags um 21:00 Uhr statt.
+* Clankriege finden immer Montags und Donnerstags, um 21:00 Uhr statt.
 
 * Beim Clankriegen, werden nur max. Truppen für die Kriegsburg gespendet, allgemein Hexe, Magier und Bogis bzw. was gefordert ist.
 
@@ -28,13 +29,13 @@ Hier die Regeln die uns wichtig sind.
 
 * Besuchertag ist immer Sonntags, während der Pokaljagd gibt es keine Besuchstage.
 
-* Nach den ersten 12 Std. sind alle Gegner frei, allerdings hilft eine Absprache über Kakao.
+* Nach den ersten 12 Std. sind alle Gegner frei, allerdings hilft eine Absprache über Kakao Talk.
 
 # Pokaljagd
-* Pokaljagd findet alle 3 Monate statt! 01.11.14 / 01.02.15 / 01.05.15 / usw. 
+* Eine Pokaljagd findet alle 3 Monate statt. 01.11.14 / 01.02.15 / 01.05.15 / usw. 
 
 * Eine Pokaljagd dauert bei uns 14 Tage, danach sollte von den CÄ festgelegte Pokalgrenze erreicht werden.
- 
+
 * Die Teilnahme an der Pokaljagd ist Pflicht, solltet Ihr in den zwei Wochen verhindert sein so spricht das bitte an.
 
 * Während einer Pokaljagd finden keine Clankriege statt.

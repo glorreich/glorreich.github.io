@@ -4,8 +4,9 @@ description: Einmal glorreich, immer glorreich!
 
 host: 0.0.0.0
 port: 3000
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 paginate: 10
 highlighter: pygments
-
+url: 'http://glorrei.ch'
+baseurl: ''
 exclude: ['README.md']
