@@ -11,4 +11,4 @@ Gegründet wurden den die Glorreichen im September 2012, daher sind wir die erst
 
 Die Glorreichen bestehen aus einem Hauptclan und unserem Aufbauclan der GlorreichenZucht.
 
-Wir suchen ständig treue Krieger die zu den Glorreichen gehören möchten. Wenn du auch dazu kommen möchtest, dann check unsere [Aufnahmebedienungen](#aufnahme).
+Wir suchen ständig treue Krieger die zu den Glorreichen gehören möchten. Wenn du auch dazu kommen möchtest, dann check unsere [Aufnahmebedingungen](#aufnahme).
