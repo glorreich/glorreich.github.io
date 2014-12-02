@@ -154,7 +154,7 @@ header span.left-tail, header span.right-tail {
   display: block;
   width: 19px;
   height: 10px;
-  background: transparent url(../images/ribbon-tail-sprite-2x.png) 0 0 no-repeat;
+  background: transparent url(../../images/ribbon-tail-sprite-2x.png) 0 0 no-repeat;
   position: absolute;
   bottom: -10px;
   z-index: 0;
@@ -178,7 +178,7 @@ header h1 {
   text-transform: uppercase;
   color: #ece4d8;
   text-align: center;
-  line-height:1;  
+  line-height:1;
   padding: 14px 20px 0;
 }
 
@@ -199,7 +199,7 @@ section#downloads {
   padding-bottom: 150px;
   margin: 51px auto -250px;
   z-index: 1;
-  background: transparent url(../images/shield.png) center 0 no-repeat;
+  background: transparent url(../../images/shield.png) center 0 no-repeat;
 }
 
 section#downloads a {
@@ -207,7 +207,7 @@ section#downloads a {
 }
 
 span.banner-fix {
-  background: transparent url(../images/shield-fallback.png) center top no-repeat;
+  background: transparent url(../../images/shield-fallback.png) center top no-repeat;
   display: block;
   height: 31px;
   position: absolute;
@@ -290,7 +290,7 @@ footer span.left-tail, footer span.right-tail {
   display: block;
   width: 23px;
   height: 126px;
-  background: transparent url(../images/small-ribbon-tail-sprite-2x.png) 0 0 no-repeat;
+  background: transparent url(../../images/small-ribbon-tail-sprite-2x.png) 0 0 no-repeat;
   position: absolute;
   top: -126px;
   z-index: 0;
@@ -307,7 +307,7 @@ footer span.right-tail {
 }
 
 footer span.octocat {
-  background: transparent url(../images/octocat-2x.png) 0 0 no-repeat;
+  background: transparent url(../../images/octocat-2x.png) 0 0 no-repeat;
   display: block;
   width: 60px;
   height: 60px;
@@ -364,7 +364,7 @@ ul {
 
 ul li {
   padding-left: 20px;
-  background: transparent url(../images/chevron-2x.png) left 15px no-repeat;
+  background: transparent url(../../../images/chevron-2x.png) left 15px no-repeat;
 }
 
 blockquote {
@@ -372,7 +372,7 @@ blockquote {
   margin: 20px 0;
   color: #8b786f;
   padding-left: 1.35em;
-  background: transparent url('../images/blockquote-gfx-2x.png') 0 8px no-repeat;
+  background: transparent url('../../../images/blockquote-gfx-2x.png') 0 8px no-repeat;
 }
 
 img {
@@ -386,8 +386,7 @@ img {
 hr {
   border: none;
   outline: none;
-  height: 42px;
-  background: transparent url('../images/hr-2x.jpg') center center repeat-x;
+  background: transparent url('../../../images/hr-2x.jpg') center center repeat-x;
   margin: 0 0 20px;
 }
 
@@ -475,13 +474,12 @@ dd p:first-child {
 
 .header-level-1 {
   font-size: 1.85em;
-  border-bottom: .2em double #d3ccc1;
   color: #7c334f;
   text-align: center;
   font-style: italic;
   margin: 1.1em 0 .38em;
   line-height: 1.2;
-  padding-bottom: 10px
+  padding-bottom: 0
 }
 
 .header-level-2 {
