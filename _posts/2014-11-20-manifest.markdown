@@ -26,7 +26,8 @@ Wie in jedem Clan, sind auch bei uns ein paar Regeln notwendig.
 
 * Während der Clankriegen, werden nur max. Truppen für die Kriegsburg gespendet.
 
-* Der erste Angriff im Clankrieg, geht gegen den Gegenüberliegenden, seinen Spiegel, auf der Kriegskarte. Diese Reservierung gilt automatisch für die ersten 12 Std.
+* Der erste Angriff im Clankrieg, geht gegen den Gegenüberliegenden, auf der Kriegskarte. Diese Reservierung gilt automatisch für die ersten 12 Std.
+* In den ersten 12 Std. des Clankriegs ist euch der Gegenüberliegende auf der Kriegskarte reserviert.
 
 * Es ist möglich seinen Gegner für den 1. Angriff zu tauschen bzw. man wartet wenn der Gegner einem zu schwer scheint und gibt diesen frei.
 
