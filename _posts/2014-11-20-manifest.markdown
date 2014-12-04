@@ -20,7 +20,7 @@ Wie in jedem Clan, sind auch bei uns ein paar Regeln notwendig. Im folgenden fin
 
 # Clankrieg
 
-<!-- * Für die Organisation der Clankriege verwenden wir die App Kakaotalk. Diese bitte herunterladen und nach der ID `marcelglorreich` oder `sbosen` suchen, um in den Chat aufgenommen zu werden. Kakao Talk gibt es für [iOS](https://itunes.apple.com/de/app/kakaotalk-messenger/id362057947?mt=8&uo=4) und [Android](https://play.google.com/store/apps/details?id=com.kakao.talk). -->
+* Für die Organisation der Clankriege verwenden wir die App Kakaotalk. Diese bitte herunterladen und nach der ID `marcelglorreich` oder `sbosen` suchen, um in den Chat aufgenommen zu werden. Kakao Talk gibt es für [iOS](https://itunes.apple.com/de/app/kakaotalk-messenger/id362057947?mt=8&uo=4) und [Android](https://play.google.com/store/apps/details?id=com.kakao.talk).
 
 * Clankriege finden bei uns immer montags und donnerstags, um 21:00 Uhr statt.
 
@@ -32,7 +32,7 @@ Wie in jedem Clan, sind auch bei uns ein paar Regeln notwendig. Im folgenden fin
 
 * Es ist möglich seinen Gegner für den 1. Angriff zu tauschen bzw. man wartet, wenn dir dein Gegner zu schwer scheint.
 
-* Nach den ersten 12 Std. sind alle Gegner frei, allerdings hilft eine Absprache im Chat. Du kannst dir auch einen Gegner reservieren, wenn du dies im Chat schreibst. Eine Reservierung gilt für maximal 2 Stunden.
+* Nach den ersten 12 Std. sind alle Gegner frei, allerdings hilft eine Absprache im Kakao Talk. Du kannst dir auch einen Gegner reservieren, wenn du dies im Chat schreibst. Eine Reservierung gilt für maximal 2 Stunden.
 
 # Pokaljagd
 
