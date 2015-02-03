@@ -446,6 +446,13 @@ blockquote {
   background: transparent url('/images/blockquote-gfx.png') 0 4px no-repeat;
 }
 
+img.emoji {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  border: 0;
+}
+
 img {
   -webkit-box-shadow: 0px 2px 0px #bdb6ad;
   -moz-box-shadow: 0px 2px 0px #bdb6ad;

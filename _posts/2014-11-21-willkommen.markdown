@@ -4,7 +4,7 @@ title:  "Willkommen"
 date:   2014-11-21 21:21:10
 tags: willkommen
 ---
-Herzlich Willkommen auf der Webseite der Glorreichen.
+Herzlich Willkommen auf der Webseite der Glorreichen. :smile:
 
 Wir sind ein Clan, basierend auf dem mobilen Strategiespiel **Clash of Clans**. 
 Gegründet wurden die Glorreichen im September 2012, daher sind wir die ersten und originalen Glorreichen!
