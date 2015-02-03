@@ -10,3 +10,4 @@ highlighter: pygments
 url: 'http://glorrei.ch'
 baseurl: ''
 exclude: ['README.md']
+gems: ["emoji_for_jekyll"]
